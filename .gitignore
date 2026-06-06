@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+/.venv
+__pycache__/
+*.egg-info/
+*.pyc
+/graphify-out
+/.claude
+docs/cwb_report.zip
+/docs/cwb_report
+/docs/latex_template
+/experiments
+/docs/emocode_report
+/.superpowers
